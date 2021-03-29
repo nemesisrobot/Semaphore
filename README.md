@@ -7,7 +7,7 @@
 <h3>DDB5 - Digital Port 11(Arduino yellow led)</h3>
 
 <br><center><h2>UP and Down Signal</h2></center><br>
-<h3>PORTB |=(1<<PORTBx); - Set bit</h3>
-<h3>PORTB &=~(1<<PORTBx); - clear bit</h3>
+<h3>PORTB |=(1<<PORTBx);</h3>
+<h3>PORTB &=~(1<<PORTBx);</h3>
 
 
